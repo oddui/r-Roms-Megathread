@@ -109,6 +109,7 @@ Zelda Games
 | Legend of Zelda Wind Waker (GC) (USA) | [Link](https://archive.org/download/GCRedumpNKitPart1/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20%28USA%29.nkit.gcz) |
 | Legend of Zelda Ocarina of Time 3D (3ds) (USA) | [.cia](https://drive.google.com/file/d/1-sf2HaW4h-II0ZKK8nskSLDxT5ewgSJX/view?usp=sharing) / [.3ds](https://archive.org/download/nintendo-3ds-complete-collection/3DS0033%20-%20The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D%20%28U%29.3ds.7z) |
 | Legend of Zelda Ocarina of Time (N64) (USA) | [Link](https://archive.org/download/pkmn_collection/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip) |
+| Legend of Zelda Breath of the Wild (Wii U) (USA) | [Game](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B00050000101C9400%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000C101C9400%5D%20%5BDLC%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000E101C9400%5D%20%5BUPDATE%20v208%5D.7z)  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |
 
 ## Super Smash Bros<br/>
 
@@ -117,7 +118,8 @@ Super Smash Bros Games
 - |**Super Smash Bros**|**Links**| 
 | ------ | ------ |
 | Super Smash Bros Brawl ISO (Wii)| [Link](https://archive.org/download/WiiRedumpNKitPart7/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29.nkit.gcz) |
-| Super Smash Bros Melee v1.02 ISO (GC)| [Link](https://archive.org/download/GCRedumpNKitPart2/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29.nkit.gcz) | 
+| Super Smash Bros Melee v1.02 ISO (GC)| [Link](https://archive.org/download/GCRedumpNKitPart2/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29.nkit.gcz) |
+| Super Smash Bros Wii U | [Game](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000010144F00%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000C10144F00%5D%20%5BDLC%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000E10144F00%5D%20%5BUPDATE%20v304%5D.7z)  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |
 
 ## Xenoblade<br/>
 
@@ -126,3 +128,4 @@ Xenoblade Games
 - |**Xenoblade**| **Links** |
 | ------ | ------ |
 | Xenoblade Chronicles (Wii) (USA)| [Link](https://archive.org/download/WiiRedumpNKitPart8/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.nkit.gcz) |
+| Xenoblade Chronicles X (Wii U) (USA) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B00050000101C4D00%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000C101C4D00%5D%20%5BDLC%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000E101C4D00%5D%20%5BUPDATE%20v48%5D.7z) (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |

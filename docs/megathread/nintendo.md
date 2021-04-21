@@ -145,6 +145,17 @@ Wii U
 
 - |**Tools**|**Links**|
 | ------ | ------ |
-| Wii U USB Helper | [Link](https://www.reddit.com/r/CemuPiracy/comments/bszm0p/how_to_set_up_wii_u_usb_helper_after_its/) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
-=======
-| Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
+| Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`) |
+
+- |**NUS Format**  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |**Links**|
+| ------ | ------ |
+| Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
+| Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
+| TurboGrafx-16 NUS | [Link](https://archive.org/download/wii-u-turbografx16-nus) |
+| Wii NUS | [Link](https://archive.org/download/wii-u-wii-nus) |
+| Nintendo 64 NUS | [Link](https://archive.org/download/wii-u-nintendo-64-nus) |
+| NES & Famicom NUS | [Link](https://archive.org/download/wii-u-nes-fc-nus) |
+| Super Nintendo NUS | [Link](https://archive.org/download/wii-u-super-nintendo-snes-nus) |
+| Nintendo DS NUS | [Link](https://archive.org/download/wii-u-nintendo-ds-nds-nus) |
+| Gameboy Advance NUS | [Link](https://archive.org/download/wii-u-gameboy-advance-nus) |
+| Retail Game Disc NUS | [Link](https://archive.org/download/wii-u-retail-game-disc-nus-usa) |
