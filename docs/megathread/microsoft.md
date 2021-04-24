@@ -12,3 +12,4 @@ Xbox
 | Xbox HDD Ready Part 2 | [Link](https://archive.org/details/XBOX_HDD_READY_2) |
 | Xbox HDD Ready Part 3 | [Link](https://archive.org/details/XBOX_HDD_READY_2_201710) |
 | Xbox HDD Ready Part 4 | [Link](https://archive.org/details/XBOX_HDD_READY_3) |
+| Microsoft Xbox - Redump Singles | [Link](https://archive.org/details/@og_xbox) |
