@@ -27,12 +27,13 @@ FinalBurn Neo
 
 - |**Romsets**|**Links**|
 | ------ | ------ |
-| No-Intro Collection 2021 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (requires archive.org account to view and download) |
+| No-Intro Collection 2021 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (requires an archive.org account to view and download) |
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
-| Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) (requires archive.org account to view and download) |
+| Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) (requires an archive.org account to view and download) |
 | Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
+| Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
 
 archive.org No-Intro
 
