@@ -8,18 +8,19 @@ Links to other stuff<br/>
 - |**MAME ROMs/CHDs**|**Links**|
 | ------ | ------ |
 | MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
-| Update MAME 0.220 Software List ROMs (0.220->0.230) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
-| MAME 0.230 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.229 ROMs Merged | [Link](https://archive.org/download/mame.0229) |
-| mobasuite.com MAME 0.230 ROMs Merged | [Link](http://90.230.15.92/mame230/) |
+| Update MAME 0.220 Software List ROMs (0.220 -> 0.230) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
+| MAME 0.231 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.231 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
+| mobasuite.com MAME 0.231 ROMs Merged | [Link](http://90.230.15.92/ARCADE%20Zone/mame231/) |
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
+| Update HBMAME ROMs (0.230 -> 0.231) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200231%20rom%20update/) |
 
 FinalBurn Neo
 
 - |**FinalBurn Neo ROMs**|**Links**|
 | ------ | ------ |
-| FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn) |
-| FinalBurn Neo 1.0.0.0 ROMs + Support | [Link](https://archive.org/download/fbneo/FBNeo/) |
+| FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn/) |
+| FinalBurn Neo 1.0.0.0 ROMs + Support | [Link](https://archive.org/download/fbneo/) |
 
 ## **Romsets**<br/>
 
