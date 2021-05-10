@@ -24,13 +24,19 @@ PS1
 ## **Sony Playstation 2**<br/>
 PS2
 
-- |**Internet Archive: All**|**Links**|
+- |**Internet Archive: USA**|**Links**|
 | ------ | ------ |
 | PS2 Redump USA Part 1 2018-08-01 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
 | PS2 Redump USA Part 2 2018-08-01 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2) |
 | PS2 Redump USA Part 3 2018-08-01 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part3) |
 | PS2 Redump USA Part 4 2018-08-01 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part4) |
 | PS2 Redump USA Part 5 2018-08-01 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaOther2018Aug01) |
+| PS2 Redump USA Part 1 (Alvro) | [Link](https://archive.org/download/ps2usaredump1) |
+| PS2 Redump USA Part 2 (Alvro) | [Link](https://archive.org/download/ps2usaredump1_20200816_1458) |
+| PS2 Redump USA Part 3 (Alvro) | [Link](https://archive.org/download/httpsarchive.orgdetailsps2usaredump3) |
+
+- |**Internet Archive: EUR**|**Links**|
+| ------ | ------ |
 | PS2 Game Collection EUR (# - A) | [Link](https://archive.org/download/PS2_COLLECTION_PART1) |
 | PS2 Game Collection EUR (A - B) | [Link](https://archive.org/download/PS2_COLLECTION_PART2) |
 | PS2 Game Collection EUR (B) | [Link](https://archive.org/download/PS2_COLLECTION_PART3) |
