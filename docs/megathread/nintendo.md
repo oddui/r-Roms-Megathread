@@ -13,7 +13,7 @@ DS
 
 - |**Other: All**|**Links**| 
 | ------ | ------ |
-| Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
+| mobasuite.com No-Intro | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
 
 DS Download Play
 
@@ -146,7 +146,7 @@ Wii U
 | ------ | ------ |
 | Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`) |
 
-- |**NUS Format**  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |**Links**|
+- |**NUS Format**  (for use with Cemu, use [CDecrypt](https://github.com/phacoxcll/cdecrypt/releases/tag/v3.0) to unpack the files) |**Links**|
 | ------ | ------ |
 | Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
