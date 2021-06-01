@@ -13,7 +13,7 @@ Links to other stuff<br/>
 | MAME 0.232 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
 | Update HBMAME ROMs (0.230 -> 0.231) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200231%20rom%20update/) |
-| Update HBMAME ROMs (0.230 -> 0.232) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200232%20rom%20update/) |
+| Update HBMAME ROMs (0.231 -> 0.232) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200232%20rom%20update/) |
 | MAME Support | [Link](https://archive.org/download/mame-support/Support/) |
 
 FinalBurn Neo
