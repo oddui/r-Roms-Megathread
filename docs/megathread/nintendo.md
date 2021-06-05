@@ -126,7 +126,7 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 | Internet Archive (nNASOS) Redump USA Part 3 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart3) |
 | Internet Archive (nNASOS) Redump USA Part 4 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart3_201802) |
 | Internet Archive (nNASOS) Redump USA Part 5 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart5) |
-| Internet Archive (nNASOS) Redump USA Part 5 | [Link](https://archive.org/download/Httpsarchive.orgdetailsRedumpNintendoWiiAmericaPart6) |
+| Internet Archive (nNASOS) Redump USA Part 6 | [Link](https://archive.org/download/Httpsarchive.orgdetailsRedumpNintendoWiiAmericaPart6) |
 
 To extract from .dec files:
 Download https://archive.org/download/nNASOS1.8/nNASOS1.8.zip
