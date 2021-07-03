@@ -13,7 +13,7 @@ DS
 
 - |**Other: All**|**Links**| 
 | ------ | ------ |
-| mobasuite.com No-Intro | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
+| mobasuite.com No-Intro | [Link](http://90.230.15.92/Nintendo/Nintendo%20DS%20(Decrypted)/) |
 
 DS Download Play
 

@@ -65,6 +65,12 @@ PS2
 | PS2 Game Collection EUR (T) | [Link](https://archive.org/download/PS2_COLLECTION_PART26) |
 | PS2 Game Collection EUR (T - Z) | [Link](https://archive.org/download/PS2_COLLECTION_PART27) |
 
+- |**Internet Archive: EUR**|**Links**|
+| ------ | ------ |
+| Redump PS2 Japan Part 1 | [Link](https://archive.org/download/redump-ps2-jpn) |
+| Redump PS2 Japan Part 2 | [Link](https://archive.org/download/redump-ps2-jpn-part2) |
+| Redump PS2 Japan Part 3 | [Link](https://archive.org/download/redump-ps2-jpn-part3) |
+
 ## **Sony Playstation Portable**<br/>
 PSP
 

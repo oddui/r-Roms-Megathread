@@ -9,11 +9,12 @@ Links to other stuff<br/>
 | ------ | ------ |
 | MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
 | Update MAME 0.220 Software List ROMs (0.220 -> 0.232) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
-| MAME 0.231 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.232 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
+| MAME 0.233 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.233 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
 | Update HBMAME ROMs (0.230 -> 0.231) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200231%20rom%20update/) |
 | Update HBMAME ROMs (0.231 -> 0.232) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200232%20rom%20update/) |
+| Update HBMAME ROMs (0.232 -> 0.233) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.233%20rom%20update/) |
 | MAME Support | [Link](https://archive.org/download/mame-support/Support/) |
 
 FinalBurn Neo
