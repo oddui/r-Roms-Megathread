@@ -28,6 +28,10 @@ Links to PC stuff i guess<br/>
 | Ovagames (Cracks & More) | [Link](http://www.ovagames.com/) |
 | FitGirl Repacks | [Link](https://fitgirl-repacks.site/) |
 
+- |**Other**|**Links**|
+| ------ | ------ |
+| /r/PiratedGames Megathread | [Link](https://rentry.org/pgames-mega-thread) |
+
 - |**Redump IBM PC Compatibles**|**Links**|
 | ------ | ------ |
 | 0-9 | [Link](https://archive.org/download/redump_pc_0) |

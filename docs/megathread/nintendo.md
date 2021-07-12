@@ -1,19 +1,14 @@
 # Nintendo Tab
-Links to Nintendo ROMs
 
-Older systems can be found in the [Others Tab](/megathread/other)<br/>
-
+##### Nintendo 64 and older can be found in the [Others Tab](/megathread/other)<br/>
+<br/>
 
 ## **Nintendo DS**<br/>
 DS
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
-| No-Intro - Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/details/noIntroNintendoDsDecrypted2020Jan20) |
-
-- |**Other: All**|**Links**| 
-| ------ | ------ |
-| mobasuite.com No-Intro | [Link](http://90.230.15.92/Nintendo/Nintendo%20DS%20(Decrypted)/) |
+| No-Intro - Nintendo DS (Decrypted) (2021-07-08) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20210708-124605) |
 
 DS Download Play
 
@@ -150,6 +145,9 @@ Wii U
 | ------ | ------ |
 | Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
+
+- |**Virtual Console NUS** (Note: these files aren't ROMs themselves, they are CDN (content delivery network) files for Virtual Console games on the WiiU. If you are looking for Retro ROMs go to the [Others Tab](/megathread/other) |**Links**|
+| ------ | ------ |
 | TurboGrafx-16 NUS | [Link](https://archive.org/download/wii-u-turbografx16-nus) |
 | Wii NUS | [Link](https://archive.org/download/wii-u-wii-nus) |
 | Nintendo 64 NUS | [Link](https://archive.org/download/wii-u-nintendo-64-nus) |

@@ -1,4 +1,5 @@
 site_name: /r/Roms Megathread
+site_url: https://r-Roms.github.io
 extra_css:
   - css/extra.css
 theme:

@@ -1,15 +1,22 @@
 ### **Rom Center Markdown Edition 2021**<br/>
 
-##### <br/>Use the buttons at the top to navigate the megathread.
+##<br/>**How to use:**
+- ##### Use the buttons at the top to navigate the megathread.
+- ##### Retro games, Arcade games and more can be found in the [Others Tab](/megathread/other)<br/>
+- ##### Common games can be found in the [Popular Tab](/megathread/popular)
 
 ##<br/>**Tips**
 
-<br/>**Note about Internet Archive:**
+**Note about No-Intro and Redump Links:**
+
+No-Intro and Redump are both groups that catalog hashes of every dumped game for different systems. If a link has No-Intro or Redump in the name it should be a complete collection of known good dumps for the system. These should be your go-to links if what you're looking for isn't in the popular tab.
+
+**Note about Internet Archive Links:**
 
 Internet Archive items will have metadata files that end in extensions like `.xml` and `.sqlite`, these files are not important to download and rather are meant for the website to know what files to display and the reviews of the item.<br/>
 <br/>![IAMETA](img/internetarchivemetadata.png)<br/>
 
-**Note about Achive Files (`zip`/`7z`/`rar`):**
+**Note about Achive Files (`.zip`/`.7z`/`.rar`):**
 
 These files are not ROMs themselves, to use them, you must extract them. 7-Zip is used to extract these files, to install it, download a setup exe from [here](https://www.7-zip.org/) and run it. You should be taken through the installation setup., to use 7-Zip after it's done installing, you can either double click on your downloaded archive file or right click on the file and select `7-Zip -> Extract Files`.
 

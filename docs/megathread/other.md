@@ -7,8 +7,7 @@ Links to other stuff<br/>
 
 - |**MAME ROMs/CHDs**|**Links**|
 | ------ | ------ |
-| MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
-| Update MAME 0.220 Software List ROMs (0.220 -> 0.232) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
+| MAME 0.233 Software List ROMs Merged | [Link](https://archive.org/download/mame233_sl_roms) |
 | MAME 0.233 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
 | MAME 0.233 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
@@ -37,6 +36,11 @@ FinalBurn Neo
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) (requires an archive.org account to view and download) |
 | Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
+| EverDrive - MSU-MD Audio Enhancement ROMs | [Link](https://archive.org/download/msu_md_sega) |
+| Nintendo - Super Famicom (FastROM + SA1) ROMs | [Link](https://archive.org/download/snes_fastrom_sa1) |
+| EverDrive - Mode1 CD Audio Enhancement ROMs | [Link](https://archive.org/download/sega-mega-drive-mode1cd) |
+| EverDrive - MD+ Audio Enhancement ROMs | [Link](https://archive.org/download/sega-mega-drive-mdplus) |
+| SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/nintendo-snes-msu1) |
 
 archive.org No-Intro
 
