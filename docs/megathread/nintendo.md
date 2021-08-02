@@ -8,7 +8,7 @@ DS
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
-| No-Intro - Nintendo DS (Decrypted) (2021-07-08) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20210708-124605) |
+| No-Intro - Nintendo DS (Decrypted) (2021-07-08) (Requires an archive.org account to download from) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20210708-124605) |
 
 DS Download Play
 
@@ -81,9 +81,9 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 
 - |**RVZ Format**|**Links**|
 | ------ | ------ |
-| Nintendo - GameCube (RVZ) - Retail Part 1 | [Link](https://archive.org/download/ngc-rvz_mainregions1) |
-| Nintendo - GameCube (RVZ) - Retail Part 2 | [Link](https://archive.org/download/ngc-rvz_mainregions2) |
-| Nintendo - GameCube (RVZ) - Demo | [Link](https://archive.org/download/ngc-rvz_demo) |
+| Nintendo - GameCube (RVZ) - USA | [Link](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/) |
+| Nintendo - GameCube (RVZ) - EUR | [Link](https://archive.org/download/rvz-gc-europe-redump/RVZ-GC-EUROPE-REDUMP/) |
+| Nintendo - GameCube (RVZ) - Asia | [Link](https://archive.org/download/rvz-gc-asia-redump/RVZ-GC-ASIA-REDUMP/) |
 
 - |**ISO Format**|**Links**|
 | ------ | ------ |

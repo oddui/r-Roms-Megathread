@@ -18,7 +18,7 @@ Internet Archive items will have metadata files that end in extensions like `.xm
 
 **Note about Achive Files (`.zip`/`.7z`/`.rar`):**
 
-These files are not ROMs themselves, to use them, you must extract them. 7-Zip is used to extract these files, to install it, download a setup exe from [here](https://www.7-zip.org/) and run it. You should be taken through the installation setup., to use 7-Zip after it's done installing, you can either double click on your downloaded archive file or right click on the file and select `7-Zip -> Extract Files`.
+These files are not ROMs themselves, to use them, you must extract them. 7-Zip is used to extract these files, to install it, download a setup exe from [here](https://www.7-zip.org/) and run it. You should be taken through the installation process. To use 7-Zip after it's done installing, you can either double click on your downloaded archive file or right click on the file and select `7-Zip -> Extract Files`.
 
 ## <br/>**Ublock Origin**
 
@@ -55,4 +55,4 @@ From time to time, when trying to download a file, you might see an error messag
 
 **Mega.nz & 1Fichier Quota Bypass Method:**
 
-The file hosting services mega.nz and 1fichier have pretty serious data caps, and unlike google drive, there's no super easy way to get around them. To bypass the mega.nz & 1fichier quotas you will need either a VPN or a list of proxies. For the VPN just connect and you're good to go. For the proxies you'll need to use some 3rd party tool like [JDownloader2](https://jdownloader.org/jdownloader2) and give it the list of proxies, do note that this process is fairly advanced. After that you can just start downloading by giving JDownloader2 links to the files you would like to download.
+The file hosting services mega.nz and 1fichier have pretty serious data caps, and unlike google drive, there's no super easy way to get around them. To bypass the mega.nz & 1fichier quotas you will need either a VPN or a list of proxies. For the VPN just connect and you're good to go. For the proxies you'll need to use some 3rd party tool like [JDownloader2](https://jdownloader.org/jdownloader2) and give it the list of proxies, do note that this process is fairly advanced. After that you can start downloading by feeding JDownloader2 links to the files you would like to download.
