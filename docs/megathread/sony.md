@@ -100,9 +100,14 @@ PS3
 | PS3 No-Intro EUR Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_2) |
 | PS3 No-Intro EUR Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_3) |
 | PS3 No-Intro EUR Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_4) |
+| PS3 No-Intro EUR Part 5 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_5) |
+| PS3 No-Intro EUR Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_6) |
+| PS3 No-Intro EUR Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_7) |
+| PS3 No-Intro EUR Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_8) |
 | PS3 No-Intro JAP Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_1) |
 | PS3 No-Intro JAP Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_2) |
 | PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
+| PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
 | PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
 | PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
 | PS3 Games (# - C) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |

@@ -9,25 +9,29 @@ DS
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
 | No-Intro - Nintendo DS (Decrypted) (2021-07-08) (Requires an archive.org account to download from) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20210708-124605) |
+| No-Intro - Nintendo - Nintendo DS (Decrypted) (20200120-125458) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
+| mobasuite.com No-Intro Nintendo DS (Decrypted) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
 
 DS Download Play
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DS (Download Play) (2019-08-25) | [Link](https://archive.org/download/nintendodsdownloadplay) | 
+| mobasuite.com No-Intro Nintendo DS (Download Play) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS%20(Download%20Play)/) | 
 
 DSi
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DSi (Decrypted) (2019-05-03) | [Link](https://archive.org/download/nintendodsidecrypted) |
+| mobasuite.com No-Intro Nintendo DSi (Decrypted) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DSi) |
 
 DSiWare
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DSi (Digital) (2019-08-13) | [Link](https://archive.org/download/nintendodsiware) |
-
+| mobasuite.com No-Intro Nintendo DSi (Digital) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DSi%20(Digital)/) |
 
 ## **Nintendo 3DS**<br/>
 3DS

@@ -11,6 +11,8 @@ Metroid Games
 
 - |**Internet Archive**|**Links**|
 | ------ | ------ |
+| Metroid Fusion (GBA) (USA) | [Link](https://archive.org/download/nointro.gba/Metroid%20Fusion%20%28USA%29.7z) |
+| Metroid Zero Mission (GBA) (USA) | [Link](https://archive.org/download/nointro.gba/Metroid%20-%20Zero%20Mission%20%28USA%29.7z) |
 | Metroid Prime Trilogy (Wii) (USA) | [Link](https://archive.org/download/WiiRedumpNKitPart4/Metroid%20Prime%20Trilogy%20%28USA%29/Metroid%20Prime%20Trilogy%20%28USA%29.nkit.gcz) |
 | Metroid Prime (GC) (USA) | [Link](https://archive.org/download/GCRedumpNKitPart1/Metroid%20Prime%20%28USA%29.nkit.gcz) |
 | Metroid Prime 2 (GC) (USA) | [Link](https://archive.org/download/GCRedumpNKitPart1/Metroid%20Prime%202%20-%20Echoes%20%28USA%29.nkit.gcz) |
