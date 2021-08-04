@@ -143,6 +143,7 @@ Wii U
 
 - |**Tools**|**Links**|
 | ------ | ------ |
+| RunExploit | [Link](https://runexploit.com) |
 | Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`) |
 
 - |**NUS Format**  (for use with Cemu, use [CDecrypt](https://github.com/phacoxcll/cdecrypt/releases/tag/v3.0) to unpack the files) |**Links**|
